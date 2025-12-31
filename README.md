@@ -63,6 +63,7 @@ B站演示视频BV1ARGtzYEyU
 
 <img width="3832" height="2154" alt="GitHub 项目许可选择" src="https://github.com/user-attachments/assets/bd2e2bab-bd11-4406-8d36-09a68b8c642a" />
 
+<img width="1919" height="1079" alt="177d437449f74e6ce4e6919ae48337e2" src="https://github.com/user-attachments/assets/1c2bf710-6b2e-4454-ab7a-647ce4b8ec36" />
 
 <img width="3838" height="2158" alt="GitHub 项目许可选择 (1)" src="https://github.com/user-attachments/assets/c870d41a-127e-453a-b04f-cc6ee4b0fca5" />
 
