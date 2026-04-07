@@ -5,6 +5,7 @@ B站演示视频BV1ARGtzYEyU
 
 下载方法点击右边release处的tag里面的Game下载Release.zip即可
 
+在游戏的第二幕游戏中，若迷路了可以通过q键使用透视技能，有10秒cd
 
 在游戏的第三幕战斗中，打空boss招架条后一秒内按r可以释放大招处决
 
